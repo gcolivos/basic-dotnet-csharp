@@ -14,9 +14,9 @@ namespace list_quickstart
             }
             Console.WriteLine();
             //can add or remove names to a list using below method
-            names.Add("Maria");
-            names.Add("Bill");
-            names.Remove("Ana");
+            names.Add("Stephanie");
+            names.Add("Joe W");
+            names.Remove("Tyler");
             //Example of lopping through a List below
             foreach (var name in names)
             {
