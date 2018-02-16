@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/guillermoolivos/Documents/elnath/my-app/introToDotNet/introToDotNet.csproj",
+      "projectUniqueName": "/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/introToDotNet.csproj",
       "projectName": "introToDotNet",
-      "projectPath": "/Users/guillermoolivos/Documents/elnath/my-app/introToDotNet/introToDotNet.csproj",
+      "projectPath": "/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/introToDotNet.csproj",
       "packagesPath": "/Users/guillermoolivos/.nuget/packages/",
-      "outputPath": "/Users/guillermoolivos/Documents/elnath/my-app/introToDotNet/obj/",
+      "outputPath": "/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

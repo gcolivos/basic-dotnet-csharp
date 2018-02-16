@@ -8,3 +8,8 @@
 /Users/guillermoolivos/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
 /Users/guillermoolivos/myApp/obj/Debug/netcoreapp2.0/myApp.dll
 /Users/guillermoolivos/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/obj/Debug/netcoreapp2.0/myApp.dll
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/obj/Debug/netcoreapp2.0/myApp.pdb

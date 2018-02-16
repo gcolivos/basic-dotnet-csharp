@@ -1,0 +1,10 @@
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/bin/Debug/netcoreapp2.0/introToDotNet.deps.json
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/bin/Debug/netcoreapp2.0/introToDotNet.runtimeconfig.json
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/bin/Debug/netcoreapp2.0/introToDotNet.runtimeconfig.dev.json
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/bin/Debug/netcoreapp2.0/introToDotNet.dll
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/bin/Debug/netcoreapp2.0/introToDotNet.pdb
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/obj/Debug/netcoreapp2.0/introToDotNet.csproj.CoreCompileInputs.cache
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/obj/Debug/netcoreapp2.0/introToDotNet.AssemblyInfoInputs.cache
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/obj/Debug/netcoreapp2.0/introToDotNet.AssemblyInfo.cs
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/obj/Debug/netcoreapp2.0/introToDotNet.dll
+/Users/guillermoolivos/Documents/elnath/intro-to-dotnet/introToDotNet/obj/Debug/netcoreapp2.0/introToDotNet.pdb
